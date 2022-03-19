@@ -2,4 +2,4 @@
 - Books
 - Practics
 - Hacks
-## © 2021 All Rights Reserved
+## © 2000-2022 All Rights Reserved
